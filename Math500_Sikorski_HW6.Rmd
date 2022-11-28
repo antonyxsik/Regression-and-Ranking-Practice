@@ -1,5 +1,5 @@
 ---
-title: "Math 500 HW6"
+title: "Regression + Ranking Practice"
 author: "Antony Sikorski"
 output:
   html_document: default
